@@ -1,0 +1,29 @@
+# Core dependencies
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Deep learning
+torch
+torchvision
+torchaudio
+torchsummary
+
+# Medical imaging
+nibabel        # for loading NIfTI (.nii/.nii.gz) files
+SimpleITK      # for medical image processing
+
+# Visualization
+opencv-python
+plotly
+vtk            # for advanced 3D visualization
+
+# Utilities
+tqdm
+pillow
+
+# Optional (for future improvements)
+monai          # specialized framework for medical imaging with PyTorch
